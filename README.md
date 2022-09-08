@@ -9,4 +9,4 @@ ____
 ## **Social media**:
 ### :camera: Instagram: ar.tteemm
 ### :black_nib: Telegram: @Hamelons
-### :eyeglasses: Bexance: https://www.behance.net/artemmider8e4e
+### :eyeglasses: Behance: https://www.behance.net/artemmider8e4e
