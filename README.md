@@ -1,6 +1,3 @@
-## My name is **Artem**
-### I'm **frontend developer** from Rostov-on-Don
-___
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
