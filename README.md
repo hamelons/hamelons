@@ -11,4 +11,3 @@ ____
 ## **Social media**:
 ### :camera: Instagram: ar.tteemm
 ### :black_nib: Telegram: @Hamelons
-### :eyeglasses: Behance: https://www.behance.net/artemmider1101
