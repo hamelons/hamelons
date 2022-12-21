@@ -8,5 +8,5 @@
 ![Jest](https://img.shields.io/badge/-jest-090909?style=for-the-badge&logo=jest)
 ____
 ## **Social media**:
-### :camera: Instagram: ar.tteemm
-### :black_nib: Telegram: @Hamelons
+
+### :black_nib: Telegram: @ar_temer
