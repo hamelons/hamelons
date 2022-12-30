@@ -5,7 +5,7 @@
 ![React JS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
-![Jest](https://img.shields.io/badge/-jest-090909?style=for-the-badge&logo=jest)
+![Node](https://img.shields.io/badge/-node-090909?style=for-the-badge&logo=Node)
 ____
 ## **Social media**:
 
