@@ -1,3 +1,4 @@
+![](https://veteska.cz/wp-content/uploads/2015/07/hello-world_702777-1024x576.png)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
