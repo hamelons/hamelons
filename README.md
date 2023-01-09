@@ -10,7 +10,7 @@
 ____
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamelons&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelons&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artem&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ____
 
 ### **Messenger**:
