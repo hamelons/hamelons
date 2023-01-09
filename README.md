@@ -7,7 +7,7 @@
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js)
 ____
-## **Messenger**:
+### **Messenger**:
 
-### :black_nib: Telegram: @ar_temer
-### :email: @artemmider@yandex.ru
+#### :black_nib: Telegram: @ar_temer
+#### :email: @artemmider@yandex.ru
