@@ -8,9 +8,10 @@
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js)
 ____
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamelons&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamelons&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+____
 ### **Messenger**:
 
 #### :black_nib: Telegram: @ar_temer
-#### :email: artemmider@yandex.ru
-____
-![logo](https://media.giphy.com/media/26uf0NfSlFT4JfPBC/giphy.gif)  ![logo2](https://media.giphy.com/media/pR5XCsC2ATXl2ngc1n/giphy.gif)
+#### :email: Email: artemmider@yandex.ru
