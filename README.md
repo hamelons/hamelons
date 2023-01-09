@@ -11,4 +11,4 @@ ____
 ### **Messenger**:
 
 #### :black_nib: Telegram: @ar_temer
-#### :email: @artemmider@yandex.ru
+#### :email: artemmider@yandex.ru
