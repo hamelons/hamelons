@@ -12,7 +12,8 @@ ____
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamelons&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamelons&theme=github_dark&utcOffset=8)
 ____
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artem&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamelons&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamelons&theme=github_dark)
 ____
 
 ### **Messenger**:
