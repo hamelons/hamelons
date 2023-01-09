@@ -9,8 +9,9 @@
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js)
 ____
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamelons&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamelons&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamelons&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamelons&theme=tokyonight&utcOffset=8)
+____
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Artem&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ____
 
