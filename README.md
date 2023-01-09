@@ -15,5 +15,11 @@ ____
 
 ### **Messenger**:
 
-#### :black_nib: Telegram: @ar_temer
-#### :email: Email: artemmider@yandex.ru
+<div id="badges">
+  <a href="https://t.me/ar_temer">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@ar_temer"/>
+  </a>
+  <a href="mail.yandex.ru">
+    <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=Gmail&logoColor=white" alt="@artemmider@yandex.ru"/>
+  </a>
+</div>
