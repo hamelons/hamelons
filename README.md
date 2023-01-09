@@ -13,4 +13,4 @@ ____
 #### :black_nib: Telegram: @ar_temer
 #### :email: artemmider@yandex.ru
 ____
-![logo](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+![logo](https://media.giphy.com/media/26uf0NfSlFT4JfPBC/giphy.gif)
