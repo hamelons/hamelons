@@ -1,5 +1,5 @@
 <!-- ![](https://au.digicobbler.com/wp-content/uploads/2018/12/netacol_api_anim.gif) -->
- ![](https://cdn.dribbble.com/users/3496409/screenshots/7749099/media/e28f5b7f3756d12dddc8a57e0f559219.gif)
+ ![](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
