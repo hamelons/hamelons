@@ -8,6 +8,7 @@
 ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm)
 ![Node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=Node.js)
+![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA)
 ____
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamelons&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamelons&theme=tokyonight)
