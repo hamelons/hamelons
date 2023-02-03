@@ -18,9 +18,3 @@ ____
 ____
 
 ### **Messenger**:
-
-<div id="badges">
-  <a href="https://t.me/ar_temer">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="@ar_temer"/>
-  </a>
-</div>
