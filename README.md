@@ -16,5 +16,3 @@ ____
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamelons&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamelons&theme=tokyonight)
 ____
-
-### **Messenger**:
