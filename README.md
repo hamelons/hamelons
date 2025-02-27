@@ -1,6 +1,6 @@
 ![](https://au.digicobbler.com/wp-content/uploads/2018/12/netacol_api_anim.gif)
 ### T e c h n o l o g i e s :
-![Technologies](https://skillicons.dev/icons?i=react,js,html,css,sass,vscode,git,figma&theme=dark&perline=11)
+![Technologies](https://skillicons.dev/icons?i=node,js,html,css,sass,vscode,git,figma&theme=dark&perline=11)
 ____
 
 
