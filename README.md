@@ -1,5 +1,4 @@
 ![Баннер профиля](https://au.digicobbler.com/wp-content/uploads/2018/12/netacol_api_anim.gif)
-![Баннер профиля](https://tenor.com/lrse4hZzhud.gif)
 #### Language:
 ![Language_list](https://skillicons.dev/icons?i=go,js,html,css,sass&theme=dark&perline=11)
 _______
